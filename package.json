@@ -1,0 +1,34 @@
+{
+  "name": "sun-king",
+  "version": "0.0.8",
+  "description": "sunjay个人使用的js工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunjayking/sun-king.git"
+  },
+  "keywords": [
+    "sunjay",
+    "king"
+  ],
+  "author": {
+    "name": "sunjay"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/sunjayking/sun-king#readme",
+  "_id": "sun-king@0.0.6",
+  "_shasum": "83d30f901aab36fb6e7160cc38f95515be1df1e1",
+  "_from": "sun-king@latest",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0"
+  },
+  "readme": "# sun-king\r\n\r\n---\r\n\r\n**Ŀ¼**\r\n\r\n[toc]\r\n\r\n##DOM\r\n\r\n\r\n----------\r\n\r\n\r\n##_\r\n\r\n\r\n----------\r\n\r\n\r\n##Store\r\n\r\n\r\n\r\n",
+  "readmeFilename": "README.md",
+  "gitHead": "2f7cad502c1ae1f6bcd3120171ebcbba25856eba",
+  "bugs": {
+    "url": "https://github.com/sunjayking/sun-king/issues"
+  }
+}
