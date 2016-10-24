@@ -36,6 +36,10 @@ const DOM = {
 	focus(name){
 		this.getName(name).focus()
 	},
+	//-- 移除body中的dom
+	focus(name){
+		this.getName(name).focus()
+	},
 	//-- 插入script,并执行回调
 	script(url,callback){
 		var script = this.create('script')
